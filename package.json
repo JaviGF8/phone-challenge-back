@@ -1,0 +1,18 @@
+{
+    "name": "phone-challenge-back",
+    "version": "0.1.0",
+    "description": "Phone challenge backend",
+    "main": "src/app.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JaviGF8/phone-challenge-front.git"
+    },
+    "scripts": {
+        "start": "node ./src/app.js"
+    },
+    "author": "Javier Garcia Fajardo",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
